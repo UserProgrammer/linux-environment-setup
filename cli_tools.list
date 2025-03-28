@@ -1,5 +1,0 @@
-A list of CLI tools not installed by default:
-- vim
-- inotify-tools (https://github.com/inotify-tools/inotify-tools)
-- ag (https://github.com/ggreer/the_silver_searcher)
-- tree (https://vitux.com/linux-tree-command)
